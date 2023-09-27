@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Gharib</h1>
-![Uploading image.png…]()
-
+https://static.vecteezy.com/system/resources/previews/004/865/921/original/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg
 <h3 align="center">An embedded systems engineer doing both Software & Hardware. I love reading, writing, creating projects. it's my lifestyle.I believe that the combination of brilliant minds, bold ideas, and a complete disregard for what is possible, can and will change the world! I will be there when it happens will you?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-gharib&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-gharib" /> </p>

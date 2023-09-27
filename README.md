@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Gharib</h1>
-<p align="center"> <img src="https://github.com/Mahmoud-Gharib/Mahmoud-Gharib/assets/62407045/f3d8539d-3e88-492d-81b2-b57a8033b4b2" /> </p>
+<p align="center"> <img src="https://github.com/Mahmoud-Gharib/Mahmoud-Gharib/assets/62407045/b6586c9c-7517-4c49-8720-b8c3ea429eea" /> </p>
 <h3 align="center">An embedded systems engineer doing both Software & Hardware. I love reading, writing, creating projects. it's my lifestyle.I believe that the combination of brilliant minds, bold ideas, and a complete disregard for what is possible, can and will change the world! I will be there when it happens will you?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-gharib&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-gharib" /> </p>

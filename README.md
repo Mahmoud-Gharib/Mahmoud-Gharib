@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Gharib</h1>
+![image](https://github.com/Mahmoud-Gharib/Mastering_C_Programming/assets/62407045/e95888d2-2e66-4bb0-b322-1b2507d793ec)
+
 <h3 align="center">An embedded systems engineer doing both Software & Hardware. I love reading, writing, creating projects. it's my lifestyle.I believe that the combination of brilliant minds, bold ideas, and a complete disregard for what is possible, can and will change the world! I will be there when it happens will you?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-gharib&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-gharib" /> </p>

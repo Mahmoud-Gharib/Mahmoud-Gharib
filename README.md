@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Gharib</h1>
-<p align="center"> <img src="https://github.com/Mahmoud-Gharib/Mahmoud-Gharib/assets/62407045/b6586c9c-7517-4c49-8720-b8c3ea429eea" /> </p>
+<p align="center"> <![image](https://github.com/user-attachments/assets/03f07572-0473-44b8-89ea-fad8aabc82b5)
+ /> </p>
 <h3 align="center">An embedded systems engineer doing both Software & Hardware. I love reading, writing, creating projects. it's my lifestyle.I believe that the combination of brilliant minds, bold ideas, and a complete disregard for what is possible, can and will change the world! I will be there when it happens will you?</h3>
 
 <p align="left"> <![image](https://github.com/user-attachments/assets/cdf7a83f-a5a0-478d-a668-49c3b267e675)

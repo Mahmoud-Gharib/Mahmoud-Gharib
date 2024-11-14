@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Gharib</h1>
-<p align="center"> <![image](https://github.com/user-attachments/assets/03f07572-0473-44b8-89ea-fad8aabc82b5)
- /> </p>
-<h3 align="center">An embedded systems engineer doing both Software & Hardware. I love reading, writing, creating projects. it's my lifestyle.I believe that the combination of brilliant minds, bold ideas, and a complete disregard for what is possible, can and will change the world! I will be there when it happens will you?</h3>
+<p align="center"> <![image](https://github.com/user-attachments/assets/8e6785f2-f1de-41be-a6e3-3065debca647)/> </p>
+
+<h3 align="center">Embedded Systems & Software Testing Engineer | Proficient in Test Automation, Manual & API Testing | Skilled in both Software & Hardware Development | Using Tools: IntelliJ, Jira, & Postman | Passionate about Reading, Writing, and Project Creation as a Lifestyle. I believe that a combination of brilliant minds, bold ideas, and a disregard for limitations can change the world—and I’ll be there when it happens. Will you?</h3>
 
 <p align="left"> <![image](https://github.com/user-attachments/assets/cdf7a83f-a5a0-478d-a668-49c3b267e675)
  /> </p>
 
-- 🌱 I’m currently learning **CPP Programming , S/W Testing**
-
+- 🌱 I’m currently learning **Java Programming , ISTQB Agile**
+- 💞️ I’m looking to collaborate on projects that require detailed and proficient manual and automated software testing using tools like IntelliJ, Jira, and Postman to ensure high-quality software and improved user experience.
 - 👨‍💻 All of my projects are available at [https://github.com/Mahmoud-Gharib](https://github.com/Mahmoud-Gharib)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-gharib/](https://www.linkedin.com/in/mahmoud-gharib/)
 
-- 💬 Ask me about **C Programming , CPP Programming ,Avr Microcontroller , Arm Microcontroller , FreeRtos ,CAN/LIN Communication Protocol , Opencv**
+- 💬 Ask me about **C Programming , Java Programming ,Avr Microcontroller , Arm Microcontroller , FreeRtos , Communication Protocol , Opencv**
 
 - 📫 How to reach me **+201147857132 or mahmoudgharib99999@gmail.com**
 
@@ -30,17 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud-gharib&show_icons=true&locale=en" alt="mahmoud-gharib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-gharib&" alt="mahmoud-gharib" /></p>
-
-
-
-- 👋 Hi, I’m @EsraaHusseinTester
-- 👀 I’m interested in Testing, QA and QC
-- 🌱 I’m currently learning ISTQB 
-- 💞️ I’m looking to collaborate on projects that require detailed and proficient manual and automated software testing using tools like IntelliJ, Jira, and Postman to ensure high-quality software and improved user experience.
-- 📫 How to reach me: esraahussein848@gmail.com
-- 😄 Pronouns: She/ Her
-- ⚡ Fun fact: The first recorded software bug was found in 1947. It was a insect trapped in a relay of the Harvard Mark II computer, which caused a malfunction. This incident led to the term "debugging" when fixing computer glitches!
-<!---
-EsraaHusseinTester/EsraaHusseinTester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

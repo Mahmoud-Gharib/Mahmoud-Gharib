@@ -2,7 +2,8 @@
 <p align="center"> <img src="https://github.com/Mahmoud-Gharib/Mahmoud-Gharib/assets/62407045/b6586c9c-7517-4c49-8720-b8c3ea429eea" /> </p>
 <h3 align="center">An embedded systems engineer doing both Software & Hardware. I love reading, writing, creating projects. it's my lifestyle.I believe that the combination of brilliant minds, bold ideas, and a complete disregard for what is possible, can and will change the world! I will be there when it happens will you?</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-gharib&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-gharib" /> </p>
+<p align="left"> <![image](https://github.com/user-attachments/assets/cdf7a83f-a5a0-478d-a668-49c3b267e675)
+ /> </p>
 
 - 🌱 I’m currently learning **CPP Programming , S/W Testing**
 
